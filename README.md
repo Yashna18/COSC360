@@ -1,0 +1,2 @@
+# COSC360
+This course takes a practical, hands on approach to making games. We will design, prototype, implement and polish complete games over the six week course. How do we implement a game in a set timeframe? How do we ensure its quality? What sets successful developers apart from everyone else with a good idea? What do fluffy buns have to do with critiquing a design? Topics covered will include, but are not limited to: programming, project management, game design, visual and audio design and case studies from the industry.
